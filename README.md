@@ -18,6 +18,7 @@
 
 
 ### - Important Links of the Project ###
+- Please open links in new tab or window. (*Right click on link* -> *Open link in new Tab* **or** *Open link in new window* )
 ---------------------------
 | No. | Link | Description |
 | -----| ----------- | ----------- |
