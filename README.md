@@ -13,6 +13,7 @@
 | **4** | **Healthcare PGP.pdf** | Python code with result |
 | **5** | **Healthcare PGP.twbx** | *Tableau workbook* file for data visualization |
 | **6** | **Healthcare PGP-Screenshots.pdf** | Screenshots of all the data visualization worksheets |
+| **7** | **Healthcare PGP.pptx** | Powepoint presentation of all the project artifacts |
 
 
 
