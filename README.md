@@ -1,4 +1,4 @@
-# Healthcare PGP Project - Simplilearn #
+# Healthcare PGP - Capstone Project - Simplilearn #
 
 ### Student Name - Ruturaj Varne ###
 
